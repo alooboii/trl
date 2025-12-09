@@ -1,0 +1,50 @@
+Explain what DPO training optimizes.
+Give a short summary of PPO.
+Describe a situation where GRPO might fail.
+How do you measure verbosity bias?
+Provide three concise tips for alignment evaluation.
+Why can reward hacking appear in RLHF?
+Write a haiku about calibration.
+What is KL divergence used for in alignment?
+List two signs of catastrophic forgetting.
+Explain dense versus sparse rewards.
+Describe LoRA in two sentences.
+When would you quantize a model to 8-bit?
+Give an example of a hack prompt.
+Explain how to compute perplexity.
+What is a preference dataset?
+Summarize the ORCA DPO pairs format.
+How do you log metrics to JSON?
+Why save checkpoints frequently?
+Give a counter-example to verbosity bias.
+Describe the purpose of a frozen reference model.
+How can you detect reward hacking automatically?
+Name a benefit of using SmolLM2.
+How would you create a test split of 50 prompts?
+What are LoRA hyperparameters?
+Explain gradient accumulation.
+How do you limit response length during inference?
+Provide a concise safety rule.
+Why might PPO diverge?
+Give an example of dense reward shaping.
+Describe a failure mode of DPO.
+How can Kaggle notebooks access Hugging Face datasets?
+When is KL regularization important?
+Define advantage estimation.
+Give a simple verbosity instruction.
+How to store logs in CSV?
+What is the purpose of evaluation.json?
+How do you reload a saved checkpoint?
+What is the impact of batch size on stability?
+List three metrics for alignment drift.
+Explain the need for a reward model.
+How do you tokenize prompts and responses?
+Provide a way to test compliance rate.
+Why normalize rewards in GRPO?
+Describe a token-level reward.
+What makes a prompt hacky?
+How do you set a random seed in datasets?
+Give a concise definition of PPO.
+Describe the PPO reference model's role.
+How do you monitor KL during PPO?
+Summarize the assignment requirements.
